@@ -2,6 +2,9 @@
 
 Super specific customizable bot used for grinding the discord bot VirtualFisher.
 
+I know "super specific" and "customizable" don't go together.
+
+
 # Installation
 
 *You need to install python first before you can use this program. Install it at https://www.python.org/downloads.*
