@@ -1,6 +1,5 @@
 import pyautogui
 import time
-import json
 
 # Config
 prefix = input("Prefix: ")
@@ -8,7 +7,7 @@ prefix = input("Prefix: ")
 # Bee mode
 if input == "activatebeemode":
     beemode = input("Do you want to activate bee mode? Y/N: ")
-    if beemode == y or beemode == Y:
+    if beemode == "y" or beemode == "Y":
         f = open("beemovie", "r")
         time.sleep(5)
         for word in f:
