@@ -4,7 +4,7 @@ import time
 # Config
 prefix = input("Prefix: ")
 
-# Bee mode
+# Bee mode :)
 if input == "activatebeemode":
     beemode = input("Do you want to activate bee mode? Y/N: ")
     if beemode == "y" or beemode == "Y":
